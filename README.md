@@ -1,0 +1,2 @@
+# Movie-App
+A responsive and interactive movie app built with React, designed to let users explore and manage their favorite movies with ease. The app integrates modern frontend technologies and routing for a seamless user experience. 
